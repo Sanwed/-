@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;Sanwed&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sanwed/first-project.git",
-    "accountId": "10219247-f0c3-4558-a34b-0d13b85f86ab"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sanwed/first-project.git&quot;,
+    &quot;accountId&quot;: &quot;10219247-f0c3-4558-a34b-0d13b85f86ab&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -50,7 +50,7 @@
     "Node.js.test.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "counter",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Проекты/Simbirsoft",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
