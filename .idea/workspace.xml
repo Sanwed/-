@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;Sanwed&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Sanwed/test.git&quot;,
-    &quot;accountId&quot;: &quot;10219247-f0c3-4558-a34b-0d13b85f86ab&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sanwed/first-project.git",
+    "accountId": "10219247-f0c3-4558-a34b-0d13b85f86ab"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -108,7 +108,7 @@
       <workItem from="1732882239811" duration="598000" />
       <workItem from="1732895784241" duration="4549000" />
       <workItem from="1733147031677" duration="15000" />
-      <workItem from="1733154923429" duration="1162000" />
+      <workItem from="1733154923429" duration="1620000" />
     </task>
     <servers />
   </component>
